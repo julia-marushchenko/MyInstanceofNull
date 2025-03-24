@@ -11,6 +11,7 @@ public class Main {
 
     // Method main to run java program
     public static void main(String[] args) {
+        
         // Object of class Test with null value
         Test test = null;
 
